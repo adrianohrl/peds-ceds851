@@ -1,0 +1,1 @@
+,filename,df_filename,df_summary_filename,year,split,embedding,embedding_dim,max_words,max_len,lstm_size,dense1_size,dense2_size,learning_rate,rho,epsilon,decay,patience,epochs,batch_size,train_rmse,train_loss,val_rmse,val_loss
